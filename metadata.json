@@ -1,0 +1,9 @@
+{
+  "name": "Anywaa Quantum AI",
+  "description": "A paradigm-shifting Autonomous Cultural Intelligence System with neuro-adaptive interfaces and quantum-level processing.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
